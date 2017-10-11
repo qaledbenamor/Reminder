@@ -43,7 +43,7 @@ public class RemindersAdapter extends RecyclerView.Adapter<RemindersAdapter.MyVi
     private SparseBooleanArray animationItemsIndex;
     private boolean reverseAllAnimations = false;
 
-    private boolean test = false;
+    private boolean ddtest = false;
 
     // index is used to animate only the selected row
     // dirty fix, find a better solution
