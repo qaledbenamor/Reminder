@@ -60,7 +60,7 @@ public class RemindersAdapter extends RecyclerView.Adapter<RemindersAdapter.MyVi
             subject = (TextView) view.findViewById(R.id.txt_primary);
             message = (TextView) view.findViewById(R.id.txt_secondary);
             iconText = (TextView) view.findViewById(R.id.icon_text);
-            timestamp = (TextView) view.findViewById(R.id.timestamp);
+            timestamp = (TextView) view.findViewById(R.id.timestamp); //
             iconBack = (RelativeLayout) view.findViewById(R.id.icon_back);
             iconFront = (RelativeLayout) view.findViewById(R.id.icon_front);
             activate = (Switch) view.findViewById(R.id.icon_star);
