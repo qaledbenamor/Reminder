@@ -1,4 +1,4 @@
-#Reminder
+<h1>Reminder</h1>
 
 Android Reminder app with Material Design
 
