@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="textColorPrimary">#FFFFFF</color>
+    <color name="windowBackground">#FFFFFF</color>
+    <color name="navigationBarColor">#303F9F</color>
+    <color name="colorAccent">#009688</color>
+
+    <color name="colorTransparent">#00000000</color>
+    <color name="colorWhiteTransparent">#1AFFFFFF</color>
+
+    <color name="title">#000000</color>
+    <color name="subject">#111111</color>
+    <color name="timestamp">#4285f4</color>
+    <color name="reminder">#7a7a7a</color>
+    <color name="icon_tint_normal">#7a7a7a</color>
+    <color name="icon_tint_selected">#fed776</color>
+    <color name="row_activated">#263F51B5</color>
+    <color name="bg_action_mode">#303F9F</color>
+    <color name="bg_circle_default">#303F9F</color>
+
+    <!--
+
+    Transparency:
+
+       ADD Code After # #xx000000
+       100% — FF95% — F2
+       90% — E6
+       85% — D9
+       80% — CC
+       75% — BF
+       70% — B3
+       65% — A6
+       60% — 99
+       55% — 8C
+       50% — 80
+       45% — 73
+       40% — 66
+       35% — 59
+       30% — 4D
+       25% — 40
+       20% — 33
+       15% — 26
+       10% — 1A
+       5% — 0D
+       0% — 00
+
+    -->
+
+</resources>
