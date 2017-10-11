@@ -231,6 +231,8 @@ public class RemindersAdapter extends RecyclerView.Adapter<RemindersAdapter.MyVi
         reverseAllAnimations = true;
         selectedItems.clear();
         notifyDataSetChanged();
+        //
+
     }
 
     public int getSelectedItemCount() {
