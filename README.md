@@ -1,16 +1,5 @@
-<!DOCTYPE html>
-<html>
-<head>
-  <link href="http://a248.e.akamai.net/assets.github.com/stylesheets/bundle_github.css"
-        rel="stylesheet" type="text/css">
-  <script src='require.js' type='text/javascript'></script>
-  <script src='markdown.js' type='text/javascript'></script>
-</head>
-<body id="readme">
-<div id="markdown" class="wikistyle"></div>
-<script type="text/javascript">
-  require({paths:{text:"lib/text"}}, ["text!README.md"], function(readme) {
-    document.getElementById("markdown").innerHTML = markdown.toHTML(readme);
-  });
-</body>
-</html>
+#Reminder
+
+Android Reminder app with Material Design
+
+![alt tag](https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Android_Studio_icon.svg/1000px-Android_Studio_icon.svg.png "Android studio")
