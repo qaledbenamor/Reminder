@@ -29,7 +29,7 @@ import info.test.reminder.helper.FlipAnimator;
 import info.test.reminder.model.Reminder;
 
 /**
- * Created by Ravi Tamada on 24/02/17.
+ * Created by Ravi Tamada on 26/02/17.
  * www.androidhive.info
  */
 
