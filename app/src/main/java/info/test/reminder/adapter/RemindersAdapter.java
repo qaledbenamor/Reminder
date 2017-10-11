@@ -67,7 +67,7 @@ public class RemindersAdapter extends RecyclerView.Adapter<RemindersAdapter.MyVi
             imgProfile = (ImageView) view.findViewById(R.id.icon_profile);
             messageContainer = (LinearLayout) view.findViewById(R.id.message_container);
             iconContainer = (RelativeLayout) view.findViewById(R.id.icon_container);
-            view.setOnLongClickListener(this);
+            view.setOnLongClickListener(this); // 123
         }
 
         @Override
